@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "AI-Summarizer",
+    "category": "AI-Web Application",
+    "image": "images/p7.jpg",
+    "description": "React App that summarize articles with the help of OpenAI Api",
+    "link": "https://open-ai-summarizer-three.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Emaily",
+    "category": "Web Application",
+    "image": "images/p2.jpg",
+    "description": "Mern Stack App that helps you to create survey and gets feedback",
+    "link": "https://frozen-wave-74453-6c12166095dc.herokuapp.com/"
+  },
+  {
+    "id": 3,
+
+    "title": "React Fast Pizza Co.",
+    "category": "Web Application",
+    "image": "images/p8.jpg",
+    "description": "React App with Redux Toolkit where you can order pizzas",
+    "link": "https://github.com/Aimancod01/ReactPizza"
+  },
+  {
+    "id": 4,
+    "title": "WorldWise",
+    "category": "Web Application",
+    "image": "images/p1.jpg",
+    "link": "https://github.com/Aimancod01/worldwise"
+  },
+  {
+    "id": 5,
+    "title": "Cinemate",
+    "category": "Web Application",
+    "image": "images/Cinemate.JPG",
+    "link": "https://cinemate-navy.vercel.app/"
+  },
+  {
+    "id": 6,
+    "title": "UsePopcorn",
+    "category": "Web Application",
+    "image": "images/p5.jpg",
+    "link": ""
+  },
+  {
+    "id": 7,
+    "title": "Shortly",
+    "category": "Web Design",
+    "image": "images/p4.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fylo",
+    "category": "Web Design",
+    "image": "images/p3.jpg"
+  }
+]

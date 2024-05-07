@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Full-stack expertise",
+    "icon": "/images/icon-dev.svg",
+    "description": "Excel in both backend and frontend development"
+  },
+  {
+    "title": "Figma to React",
+    "icon": "/images/icon-dev.svg",
+    "description": "High-quality development of sites at the professional level."
+  },
+  {
+    "title": "API Integeration",
+    "icon": "/images/icon-app.svg",
+    "description": "Professional development of applications for iOS and Android."
+  },
+  {
+    "title": "Database Handling",
+    "icon": "/images/icon-photo.svg",
+    "description": "I make high-quality database of any category at a professional level."
+  }
+]
