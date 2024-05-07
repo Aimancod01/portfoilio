@@ -52,7 +52,7 @@ const Projects = () => {
               key={project.id}
             >
               <a href={project.link}>
-                <figure className="project-img h-52 right-10 md:right-0 w-[320px] md:w-full md:96">
+                <figure className="project-img h-52 right-9 md:right-0 w-[320px] md:w-full md:96">
                   <div className="project-item-icon-box">
                     <FaRegEye />
                   </div>
